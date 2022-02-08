@@ -1,7 +1,7 @@
 
-x = input("the num is  : ")
-y = input ("the other num is : ")
+a = input("give a  : ")
+b = input ("give b : ")
 
-sum = int (x) + int (y)
+sum = int (a) + int (b)
 
 print("sum of this", sum)
